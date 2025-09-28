@@ -21,19 +21,24 @@
 
 #### 2. Instalar WordPress
    Una vez que hemos instalado las dependencias procederemos a instalar el WordPress.
-      - Para ello primero  creamos el directorio donde se asigna como propietario de la carpeta /srv/www al usuario y grupo www-data, que es el usuario por defecto que usa Apache para ejecutar procesos web.
-      - Luego descargamos la última version de WordPress en un archivo comprimido y descargamos WordPress directamente, evitando problemas de permisos.
+   
+  - Para ello primero  creamos el directorio donde se asigna como propietario de la carpeta /srv/www al usuario y grupo www-data, que es el usuario por defecto que usa Apache para ejecutar procesos web.
+  - Luego descargamos la última version de WordPress en un archivo comprimido y descargamos WordPress directamente, evitando problemas de permisos.
    
   ![](cuarta.png)
   
 #### 3. Configurar apache para WordPress
+
    Una vez instalado el WordPress tenemos que configurar dicho WordPress para Apache:
-      - Para eso es necesario crear un archivo Apache para WordPress y configurar los diferentes sitios y habilitar los módulos necesarios para completar el proceso.
+   - Para eso es necesario crear un archivo Apache para WordPress y configurar los diferentes sitios y habilitar los módulos necesarios para completar el proceso.
       
   ![](quinta.png)
 
-5.    Configurar la base de datos
 
-6.    Configurar WordPress para la base de datos
+#### 4. Configurar la base de datos
+Para configurar WordPress, necesitamos crear una base de datos MySQL:
+
+
+#### 5. Configurar WordPress para la base de datos
   
-7.    Configurar WordPress
+#### 6. Configurar WordPress
