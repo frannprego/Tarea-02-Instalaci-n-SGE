@@ -34,11 +34,24 @@
       
   ![](quinta.png)
 
+  ![](sexta.png)
+
 
 #### 4. Configurar la base de datos
 Para configurar WordPress, necesitamos crear una base de datos MySQL:
 
+![](septima.png)
+
+- En esta imagen podemos ver la creación de una base de datos con un usuario y contraseña asi como los privilegios que asignamos al usuario.
 
 #### 5. Configurar WordPress para la base de datos
+Ahora tenemos que configurar Wordpress para usar esta base de datos.
+  - Primero, copiamos el archivo de configuración de ejemplo a wp-config.php.
+  - Luego editamos el archivo de configuración.
+  - A continuación,modificamos diferentes con los datos de la base de datos.
+  - Por último, guardamos y cerramos el archivo.
+    
+  ![](octava.png)
+  ![](novena.png)
   
 #### 6. Configurar WordPress
