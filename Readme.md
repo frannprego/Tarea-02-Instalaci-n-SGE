@@ -54,4 +54,3 @@ Ahora tenemos que configurar Wordpress para usar esta base de datos.
   ![](octava.png)
   ![](novena.png)
   
-#### 6. Configurar WordPress
