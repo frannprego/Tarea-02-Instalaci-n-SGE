@@ -1,15 +1,16 @@
-InstalaciÓn SGE
+Instalación SGE
 
- Guía para instalar WordPress en Ubuntu Server
+Una vez que el ubuntu server esta instalado comenzaremos a configurar e instalar diferentes aspectos. 
 
-1.    Instalar dependecias
+1. Instalar dependencias.
+   Primeramente instalaremos PHP y Apache del siguiente modo:ç
 
-2.    Instalar WordPress
+3.    Instalar WordPress
   
-3.    Configurar apache para WordPress
+4.    Configurar apache para WordPress
 
-4.    Configurar la base de datos
+5.    Configurar la base de datos
 
-5.    Configurar WordPress para la base de datos
+6.    Configurar WordPress para la base de datos
   
-6.    Configurar WordPress
+7.    Configurar WordPress
